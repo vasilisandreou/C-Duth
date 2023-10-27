@@ -1,0 +1,4 @@
+C:\Users\Asus\OneDrive\Υπολογιστής\C++\2. Λύσεις Ασκήσεων Φυλλαδίων\2. Φυλλάδιο 2\A3F2\A3_F2\Debug\A3_F2.exe
+C:\Users\Asus\OneDrive\Υπολογιστής\C++\2. Λύσεις Ασκήσεων Φυλλαδίων\2. Φυλλάδιο 2\A3F2\A3_F2\Debug\A3_F2.exe.lastcodeanalysissucceeded
+C:\Users\Asus\OneDrive\Υπολογιστής\C++\2. Λύσεις Ασκήσεων Φυλλαδίων\2. Φυλλάδιο 2\A3F2\A3_F2\Debug\NativeCodeAnalysis.read.1.tlog
+C:\Users\PC\Desktop\C++\3. Λύσεις Φυλλαδίων Ασκήσεων\2. Φυλλάδιο 2\A3_F2\Debug\A3_F2.exe
